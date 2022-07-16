@@ -10,3 +10,15 @@
   <img src="https://badgen.net/badge/HTML/5/red" alt="html" />
   <img src="https://badgen.net/badge/tailwind/css/blue" alt="css" />
 </p>
+
+## Start
+
+```sh
+$ npm run start
+```
+
+## Build
+
+```sh
+$ npm run build
+```
